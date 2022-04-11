@@ -1,4 +1,4 @@
-## Interface: 90105
+## Interface: 90200
 ## Title: KeysBM
 ## Notes: Replies to !Keys with various BM messages
 ## Author: Zõë
