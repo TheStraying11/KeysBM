@@ -1,0 +1,10 @@
+## Interface: 90105
+## Title: KeysBM
+## Notes: Replies to !Keys with various BM messages
+## Author: Zõë
+## Website: http://www.studiolucia.uk/wow/addons/KeysBM
+## Version: 0.0.1
+ 
+main.lua
+utils.lua
+events.lua
